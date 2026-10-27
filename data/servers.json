@@ -893,6 +893,25 @@
     "official": true
   },
   {
+    "name": "foto foto",
+    "url": "https://github.com/nternet-company/fotofoto-mcp",
+    "description": "Turn your photos or a public iCloud Shared Album into a printed hardcover photo book, and compare photo book prices across services.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "Other",
+    "provider": "foto foto",
+    "tags": [
+      "photos",
+      "photo-book",
+      "printing",
+      "ecommerce",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://fotofoto.app/mcp"
+    }
+  },
+  {
     "name": "RoboParts",
     "url": "https://github.com/lm203688/roboparts",
     "description": "Vendor-neutral robot hardware compatibility checker across 868 entities with three-state verdicts and ISO 9409-1 flange anchor.",
